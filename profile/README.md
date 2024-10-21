@@ -1,12 +1,24 @@
-## Hi there 👋
+# Calynara
+Welcome to the official repository of **Calynara**, the team behind the **Calynara Bot** for Discord! We are dedicated to creating an engaging and fun experience for Discord users through our innovative bot.
 
-<!--
+## About Calynara Bot
+The Calynara Bot is designed to enhance your Discord server with a variety of features and functionalities. Whether you're looking to improve moderation, engage your community, or add fun games, Calynara Bot has something for everyone!
 
-**Here are some ideas to get you started:**
+### Features
+- **Moderation Tools:** Automate moderation tasks to keep your server safe and organized.
+- **Community Engagement:** Foster interaction among members with games, polls, and more.
+- **User-Friendly Interface:** Easy setup and intuitive commands for seamless usage.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Getting Started
+To invite Calynara Bot to your Discord server, visit our website and follow the instructions.
+1. Go to [calynara.de](https://calynara.de/)
+2. Click on the the "Invite" button.
+3. Select the server you want to add the bot to and grant the necessary permissions.
+
+## Support
+If you have any questions, suggestions, or need assistance, feel free to reach out to us:
+- Contact: contact@calynara.de
+- Support: support@calynara.de
+
+## License
+This project is licensed under the [MIT License](https://github.com/Calynara/CalynaraBot/blob/main/LICENSE).
